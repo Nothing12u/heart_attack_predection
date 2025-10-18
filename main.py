@@ -8,7 +8,7 @@ import warnings
 import random
 warnings.filterwarnings('ignore')
 
-GOOGLE_API_KEY = "AIzaSyBym57eROtOQ_PnKvmcp3LGS0ckl8r7lf0"
+GOOGLE_API_KEY = "ENTER_YOUR_API_KEY_HERE"
 
 use_ai = False
 model = None
@@ -259,3 +259,4 @@ def predict_and_advise():
 
 if __name__ == "__main__":
     predict_and_advise()
+
