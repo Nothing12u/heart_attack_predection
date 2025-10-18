@@ -1,0 +1,16 @@
+name,location,risk_level,description
+Apollo Hospitals,Jubilee Hills Hyderabad,high,24/7 Cardiac Emergency & Cath Lab
+Yashoda Hospitals,Secunderabad,high,Advanced Cardiology ICU
+CARE Hospitals,Banjara Hills Hyderabad,high,Dedicated Heart Centre
+SVIMS,Tirupati,high,Govt Super-Specialty Cardiac Care
+King George Hospital,Visakhapatnam,high,Emergency Cardiac Unit
+KIMS Hospitals,Secunderabad,moderate,Comprehensive Cardiology OPD
+Continental Hospitals,Gachibowli Hyderabad,moderate,Preventive Cardiac Screening
+Rainbow Hospitals,Hyderabad,moderate,Multi-specialty with Cardiac Unit
+NRI General Hospital,Mangalagiri,moderate,Cardiology Consultation
+SevenHills Hospital,Visakhapatnam,moderate,Cardiac Diagnostics
+Apollo Clinic,Hyderabad,low,Preventive Heart Check-ups
+Max Lab,Visakhapatnam,low,Cholesterol & BP Screening
+Thyrocare,All Major Cities,low,Affordable Blood Tests
+Govt District Hospital,Guntur,low,Free Annual Health Camps
+Vijaya Diagnostics,Vijayawada,low,Lipid Profile & ECG
