@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 # ======================
 # Configuration
 # ======================
-GOOGLE_API_KEY = "AIzaSyDVifUTNKgv2qDWdhM-RUWNlf1DT1L6L88"  # Replace with your key if needed
+GOOGLE_API_KEY = "your_API_key"  # Replace with your key if needed
 
 use_ai = False
 genai = None
@@ -323,3 +323,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
